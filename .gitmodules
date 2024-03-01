@@ -1,0 +1,3 @@
+[submodule "Dungeon Breakout/Assets/Scripts"]
+	path = Dungeon Breakout/Assets/Scripts
+	url = https://github.com/LordTelum/scripts.git
